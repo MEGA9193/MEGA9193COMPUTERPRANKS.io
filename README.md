@@ -8,11 +8,11 @@ Projeyi kendi bilgisayarınıza klonlamak için aşağıdaki adımları izleyin:
 
 1. Repoyu klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/bilgisayar-trolleri.git
+   git clone https://github.com/MEGA9193/MEGA9193COMPUTERPRANKS.io.git
    ```
 2. Proje dizinine gidin:
    ```bash
-   cd bilgisayar-trolleri
+   cd MEGA9193COMPUTERPRANKS.io
    ```
 3. İlgilendiğiniz trol klasörüne girip `README.md` dosyasındaki veya yorum satırlarındaki talimatları okuyun.
 
